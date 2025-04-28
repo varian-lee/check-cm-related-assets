@@ -1,6 +1,7 @@
 # check-cm-related-assets
 
-csv 파일을 읽고 Datadog Dashboard/Monitor 등의 Asset 이 있는지 확인하는 스크립트
+Datadog UI에서 Metrics - Volumes 에서 Top Metric 들을 가져와서 csv로 다운로드 하고,
+해당 csv 파일을 읽고 Datadog Dashboard/Monitor 등의 Asset 이 있는지 확인하는 스크립트
 
 ```
 # 아래와 같이 준비
